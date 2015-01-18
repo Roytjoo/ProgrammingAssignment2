@@ -1,8 +1,9 @@
 ## Roy de Groot
-## test version
+## Version 1.0
 
 
 ## Creates an alternative to a matrix to cache the inverse
+## Setinverse to set the inverse, get inverse to get the inverse
 makeCacheMatrix <- function(x = matrix()) 
 {
         m <- NULL
